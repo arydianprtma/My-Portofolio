@@ -1,5 +1,3 @@
-Berikut adalah README untuk proyek HTML dan CSS ini:
-
 Portfolio Website
 
 -Deskripsi
