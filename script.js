@@ -28,8 +28,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Tampilkan SweetAlert2
       Swal.fire({
-        title: 'Thank you!',
-        text: 'Your message has been sent successfully.',
+        title: 'Terima Kasih!',
+        text: 'Pesan kamu akan di kirim melalui whatsApp.',
         icon: 'success',
         confirmButtonText: 'OK'
       }).then((result) => {
